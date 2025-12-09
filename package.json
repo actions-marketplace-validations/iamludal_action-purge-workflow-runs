@@ -1,6 +1,6 @@
 {
   "name": "purge-workflow-runs",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "private": false,
   "description": "GitHub Action to purge workflow runs",
   "author": "Ludal",
@@ -12,8 +12,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "@actions/core": "^1.10.0",
-    "dayjs": "^1.11.7"
+    "@actions/core": "^1.11.1",
+    "dayjs": "^1.11.14"
   },
   "devDependencies": {
     "@actions/github": "^5.1.1",
